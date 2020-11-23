@@ -122,6 +122,4 @@ services.AddScoped<ITagsService, TagsService>();
 [Ritorna alla pagina principale](../README_IT.md) 
 
 
-[TO COMPLETE]  
-
 [Return to main page](../README.md)  
